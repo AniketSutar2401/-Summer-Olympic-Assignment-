@@ -1,1 +1,2 @@
-# -Summer-Olympic-Assignment-
+# Summer-Olympic-Assignment
+This repository 
